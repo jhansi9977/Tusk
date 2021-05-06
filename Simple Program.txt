@@ -1,0 +1,6 @@
+Welcome to C
+#include<stdio.h>
+Void main()
+{
+printf("welcome to C");
+}
